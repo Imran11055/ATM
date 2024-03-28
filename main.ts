@@ -1,4 +1,5 @@
 #! /usr/bin/env node
+console.log ("Welcome to My Atm");
 import inquirer from "inquirer";
 import Choices from "inquirer/lib/objects/choices.js";
 let myBalance = 500000;

@@ -1,4 +1,5 @@
 #! /usr/bin/env node
+console.log("Welcome to My Atm");
 import inquirer from "inquirer";
 let myBalance = 500000;
 let myPin = 1414;
